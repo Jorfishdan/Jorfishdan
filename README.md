@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [version two of Teacher's Pet](https://github.com/Jorfishdan/capstone)
 
-- 🌱 I’m currently learning **TypeScript and MySQL**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://jfish.info](https://jfish.info)
 
